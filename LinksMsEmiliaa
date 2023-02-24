@@ -6,11 +6,16 @@
 		<!--Shrikhand Font (Google)-->
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Shrikhand&display=swap" />
+		<link
+			rel="stylesheet"
+			href="https://fonts.googleapis.com/css2?family=Shrikhand&display=swap"
+		/>
 		<link rel="stylesheet" href="styles.css" />
 	</head>
-	<body style="background-color: #172b3a">
-		<h1>MsEmiliaa</h1>
+	<body style="background-color: #0b151c">
+		<div class="gradient-animation"> 
+			<h1>MsEmiliaa</h1>
+		</div>
 
 		<p style="color: #dcd7c9; text-align: center">These are my linkerinos.</p>
 
@@ -18,24 +23,82 @@
 			24 | she/they | Rocket league boomer, recent valorant main
 		</p>
 
-		<div class="card">
-			<div class="card2"></div>
+		<!--Twitch, YouTube, Discord, TikTok, Twitter, Instagram, Donate, Merch, Subscribe + Emotes, PC Goal?, countdown, live now -->
+
+			<div class="grid-container">
+			<!--Card ONE-->
+			<div class="grid-item">
+				<a href="https://twitch.tv/MsEmiliaa">
+					<div class="card">
+						<div class="card2">Twitch</div>
+				</div>
+			</div>
+
+			<!--Card TWO-->
+			<div class="grid-item">
+				<a href="https://twitch.tv/MsEmiliaa">
+					<div class="card">
+						<div class="card2">YouTube</div>
+				</div>
+			</div>
+
+			<!--Card THREE-->
+			<div class="grid-item">
+				<a href="https://twitch.tv/MsEmiliaa">
+					<div class="card">
+						<div class="card2">Discord</div>
+				</div>
+			</div>
+
+			<!--Card FOUR-->
+			<div class="grid-item">
+				<a href="https://twitch.tv/MsEmiliaa">
+					<div class="card">
+						<div class="card2">TikTok</div>
+				</div>
+			</div>
+
+			<!--Card FIVE-->
+			<div class="grid-item">
+				<a href="https://twitch.tv/MsEmiliaa">
+					<div class="card">
+						<div class="card2">Twitter</div>
+				</div>
+			</div>
+
+			<!--Card SIX-->
+			<div class="grid-item">
+				<a href="https://twitch.tv/MsEmiliaa">
+					<div class="card">
+						<div class="card2">Instagram</div>
+				</div>
+			</div>
+
+			<!--Card SEVEN-->
+			<div class="grid-item">
+				<a href="https://twitch.tv/MsEmiliaa">
+					<div class="card">
+						<div class="card2">Tip</div>
+				</div>
+			</div>
+
+			<!--Card EIGHT-->
+			<div class="grid-item">
+				<a href="https://twitch.tv/MsEmiliaa">
+					<div class="card">
+						<div class="card2">Subscribe</div>
+				</div>
+			</div>
+
+			<!--Card NINE-->
+			<div class="grid-item">
+				<a href="https://twitch.tv/MsEmiliaa">
+					<div class="card">
+						<div class="card2">Twitch</div>
+					</div>
+				</a>
+			</div>
 		</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
 	</body>
 </html>
+
