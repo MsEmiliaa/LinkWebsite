@@ -1,3 +1,7 @@
+body {
+	background-color: #0b151c;
+}
+
 button {
 	background-color: #00cdd1;
 	border: none;
@@ -16,6 +20,10 @@ h1 {
 	margin-bottom: -1%;
 	font-family: Shrikhand;
 	
+}
+p {
+	color: #dcd7c9; 
+	text-align: center;
 }
 
 .card {
